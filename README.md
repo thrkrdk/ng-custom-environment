@@ -1,4 +1,5 @@
-Aşağıdaki Makalenin Source Kodudur.
+# "Angular ile Farklı Ortamlarda Çalışmak" makalesinin kaynak kodudur
+
 https://medium.com/@thrkardak/angular-ile-farkl%C4%B1-ortamlarda-%C3%A7al%C4%B1%C5%9Fmak-da6d4a4769eb 
 
 # NgCustomEnvironment
